@@ -1,0 +1,5 @@
+{
+  "name": "Neumáticos Express Webapp",
+  "description": "An e-commerce application for browsing and requesting quotes for tires. This version includes a fix for the quote request page logic.",
+  "requestFramePermissions": []
+}
